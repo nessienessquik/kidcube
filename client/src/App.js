@@ -2,13 +2,10 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link, Switch} from "react-router-dom";
 // import Flexbox from 'flexbox-react';
 
-
 import CreateNewParent from "./components/createNewParent.js";
 import CreateNewStudent from "./components/createNewStudent.js";
 import LandingPage from "./components/landingPage.js";
 import ParentProfile from "./components/parentProfile.js";
-
-import logo from './logo.svg';
 
 import './css/App.css';
 import './css/reset.css';
