@@ -19,7 +19,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "flexbox-react": "^4.4.0",
     "jshint": "^2.10.2",
     "macaddress": "^0.2.9",
